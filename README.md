@@ -1,1 +1,1 @@
-A few object oriented programming projects that I have worked on.
+This repository contains a few OOPs projects that i have made.
